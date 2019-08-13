@@ -1,0 +1,19 @@
+{
+  "name": "kang-project-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rkd8923/kang-project-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rkd8923/kang-project-server/issues"
+  },
+  "homepage": "https://github.com/rkd8923/kang-project-server#readme"
+}
